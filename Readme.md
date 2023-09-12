@@ -3,8 +3,19 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830450)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# How To Apply Zoom Transition Effects
+# WinForms Transition Manager - Apply zoom transition effects
 
-This example demonstrates how to use the DirectX-based "Zoom Transition" animation provided by the DevExpress Transition Manager component.
+This example demonstrates how to use the WinForms Transition Manager component to play DirectX-based "Zoom Transition" animation. In this example, the Zoom Transition effect animates the Data Grid's WinExplorerView that displays your local folders and files. The ZoomIn or ZoomOut animation effect plays when the user navigates to a subfolder or clicks the "Back" button. 
 
-In this example, the Zoom Transition effect animates the Data Grid's WinExplorerView that shows a folders and files on your local storage. The corresponding ZoomIn or ZoomOut animation effect is played when a user navigates to a child folder, or presses the "Back" button. 
+![WinForms Transition Manager - Apply zoom transition effects](https://raw.githubusercontent.com/DevExpress-Examples/winforms-how-to-use-zoom-transition-effect/19.1.1%2B/media/winforms-directx-form-transition-animation.gif)
+
+
+## Files to Review
+
+* [Form1.cs](./CS/dxSample/Form1.cs) (VB: [Form1.cs](./VB/dxSample/Form1.vb))
+
+
+## Documentation
+
+* [WinForms Transition Manager](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.Animation.TransitionManager)
+* [DirectX Hardware Acceleration](https://docs.devexpress.com/WindowsForms/119441/common-features/graphics-performance-and-high-dpi/directx-hardware-acceleration)
