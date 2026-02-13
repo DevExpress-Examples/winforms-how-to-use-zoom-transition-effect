@@ -21,7 +21,7 @@ This example demonstrates how to use the WinForms Transition Manager component t
 * [WinForms Transition Manager](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.Animation.TransitionManager)
 * [DirectX Hardware Acceleration](https://docs.devexpress.com/WindowsForms/119441/common-features/graphics-performance-and-high-dpi/directx-hardware-acceleration)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-how-to-use-zoom-transition-effect&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-how-to-use-zoom-transition-effect&~~~was_helpful=no)
 
